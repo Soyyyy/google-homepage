@@ -1,0 +1,22 @@
+table {
+    width:100%;
+    min-height: 50px;
+    font-size: 0.8em;
+    border-spacing: 0px;
+    margin-bottom: 100px;
+    font-family: Helvetica, sans-serif;
+    table-layout: fixed;
+}
+.normal-navabr {
+    width: 40px;
+}
+.blank-space {
+    width: 80%;
+}
+.glogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 50%;
+}
