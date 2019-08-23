@@ -14,9 +14,24 @@ table {
     width: 80%;
 }
 .glogo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    width: 50%;
+    text-align: center;
+    padding-top: 4em;
+}
+.search-container {
+    text-align: center;
+    
+}
+.search-container input{
+    height: 40px;
+    width: 600px;
+}
+.navigation {
+    text-align: center;
+    margin: 11px 4px;
+    border: 1px solid #f2f2f2; 
+}
+footer .United-Kingdom{
+    text-align: left;
+    padding: 10px 0 10px 30px;
+    
 }
